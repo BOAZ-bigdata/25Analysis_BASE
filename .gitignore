@@ -1,0 +1,12 @@
+# 가상환경 및 캐시
+.venv*
+__pycache__/
+*.pyc
+.DS_Store
+
+# 데이터/모델 체크포인트 등
+*.h5
+*.pkl
+*.ckpt
+*.dylib
+*.so
