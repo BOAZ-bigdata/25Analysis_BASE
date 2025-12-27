@@ -9,7 +9,6 @@ BOAZ 25기 분석 Base 세션 자료 및 과제 제출 repo
 
 |branch|날짜|세션 내용|
 |------|-------|-------|
-|Week0|25.07.10|전통 ML: SVM, 로지스틱 회귀, 선형/비선형 회귀, KNN, PCA|
 |Week1|25.07.17|딥러닝 기초 (ANN, DNN, CNN)|
 |Week2|25.07.24|순환신경망 (RNN, LSTM, GRU) → Seq2Seq 구조|
 |Week3|25.07.31|GPU 성능 향상 기법: Gradient Accumulation 등|
@@ -24,4 +23,4 @@ BOAZ 25기 분석 Base 세션 자료 및 과제 제출 repo
 |Week12|25.10.02|VISION 논문 리뷰(미정)|
 |Week13|25.10.09|VISION 논문 리뷰(미정)|
 ***
-Github 사용 안내 : [실습 시 Git Hub 사용 가이드라인](https://oval-alligator-fbf.notion.site/Git-Hub-15c6710199ab8171bc44c081bb22aa00?pvs=4)
+Github 사용 안내 : [실습 시 Git Hub 사용 가이드라인](https://observant-wax-f96.notion.site/Git-Hub-229c031af4b980479de4cb6d7e73bf90?source=copy_link)
